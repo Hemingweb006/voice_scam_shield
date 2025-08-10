@@ -30,7 +30,7 @@ It listens to live conversations, detects scam patterns instantly, and alerts th
 
 ## 1. Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/voice-scam-shield.git
+git clone https://github.com/Hemingweb006/voice-scam-shield.git
 cd voice-scam-shield
 ```
 2. Install Dependencies
